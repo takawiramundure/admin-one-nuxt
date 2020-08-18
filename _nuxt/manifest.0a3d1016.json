@@ -1,7 +1,7 @@
 {
   "name": "admin-one-nuxt",
   "short_name": "admin-one-nuxt",
-  "description": "Admin One - Nuxt Bulma Admin Dashboard",
+  "description": "Admin One Nuxt - Free Nuxt Bulma admin dashboard",
   "icons": [
     {
       "src": "/admin-one-nuxt/_nuxt/icons/icon_64x64.5f6a36.png",
